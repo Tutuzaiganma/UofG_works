@@ -2,9 +2,9 @@
 # Job A: who is logging in to the server, and who is failing?
 # Job B: what does a chosen address or account appear in?
 
-LOG_FOLDER = "logs"          # the folder holding auth.log and daemon.log
-INTERNAL_PREFIX = "10.90."   # Job A: addresses starting like this are inside the office
-KEYS = []                    # Job B: the addresses or accounts to follow, in quotes,
+LOG_FOLDER = r"E:\University_of_Glasgow\Enterprise_Cyber_Security"       # the folder holding auth.log and daemon.log
+INTERNAL_PREFIX = "10.48."   # Job A: addresses starting like this are inside the office
+KEYS = ["203.0.113.118", "refrig-svc-28"]                    # Job B: the addresses or accounts to follow, in quotes,
                              # separated by commas, for example ["10.1.2.3", "alice"]
 
 # ---------------- Job A: count logins by source address ----------------

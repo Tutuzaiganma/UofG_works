@@ -1,0 +1,431 @@
+Feb  3 10:50:54 db01 sshd[3014]: Accepted password for refrig-svc-28 from 198.51.100.16 port 59104 ssh2
+Feb  3 10:50:54 db01 sshd[3014]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Feb  3 11:32:54 db01 sshd[3014]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Feb  5 15:19:35 db01 sshd[3613]: Accepted password for refrig-svc-28 from 198.51.100.16 port 44997 ssh2
+Feb  5 15:19:35 db01 sshd[3613]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Feb  5 15:38:35 db01 sshd[3613]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Feb 10 09:13:42 db01 sshd[4516]: Accepted password for refrig-svc-28 from 198.51.100.16 port 52828 ssh2
+Feb 10 09:13:42 db01 sshd[4516]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Feb 10 10:02:42 db01 sshd[4516]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Feb 12 09:41:08 db01 sshd[4989]: Accepted password for refrig-svc-28 from 198.51.100.16 port 57525 ssh2
+Feb 12 09:41:08 db01 sshd[4989]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Feb 12 10:38:08 db01 sshd[4989]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Feb 17 13:02:05 db01 sshd[6120]: Accepted password for refrig-svc-28 from 198.51.100.16 port 55592 ssh2
+Feb 17 13:02:05 db01 sshd[6120]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Feb 17 13:24:05 db01 sshd[6120]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Feb 19 09:53:34 db01 sshd[6568]: Accepted password for refrig-svc-28 from 198.51.100.16 port 34796 ssh2
+Feb 19 09:53:34 db01 sshd[6568]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Feb 19 10:20:34 db01 sshd[6568]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Feb 24 14:55:15 db01 sshd[7653]: Accepted password for refrig-svc-28 from 198.51.100.16 port 40172 ssh2
+Feb 24 14:55:15 db01 sshd[7653]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Feb 24 15:21:15 db01 sshd[7653]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Feb 26 11:57:57 db01 sshd[8074]: Accepted password for refrig-svc-28 from 198.51.100.16 port 35195 ssh2
+Feb 26 11:57:57 db01 sshd[8074]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Feb 26 12:45:57 db01 sshd[8074]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar  3 14:37:30 db01 sshd[9175]: Accepted password for refrig-svc-28 from 198.51.100.16 port 47238 ssh2
+Mar  3 14:37:30 db01 sshd[9175]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar  3 14:52:30 db01 sshd[9175]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar  5 12:07:39 db01 sshd[9571]: Accepted password for refrig-svc-28 from 198.51.100.16 port 60094 ssh2
+Mar  5 12:07:39 db01 sshd[9571]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar  5 12:53:39 db01 sshd[9571]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar  8 21:06:51 db01 sshd[10289]: Failed password for refrig-svc-28 from 203.0.113.118 port 44468 ssh2
+Mar  8 21:06:52 db01 sshd[10289]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44468 [preauth]
+Mar  8 21:36:51 db01 sshd[10308]: Failed password for refrig-svc-28 from 203.0.113.118 port 32968 ssh2
+Mar  8 21:36:52 db01 sshd[10308]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 32968 [preauth]
+Mar  8 22:06:51 db01 sshd[10329]: Failed password for refrig-svc-28 from 203.0.113.118 port 36745 ssh2
+Mar  8 22:06:52 db01 sshd[10329]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 36745 [preauth]
+Mar 10 00:05:06 db01 sshd[10582]: Failed password for refrig-svc-28 from 203.0.113.118 port 59283 ssh2
+Mar 10 00:05:07 db01 sshd[10582]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 59283 [preauth]
+Mar 10 00:05:12 db01 sshd[10583]: Failed password for refrig-svc-28 from 203.0.113.118 port 54205 ssh2
+Mar 10 00:05:13 db01 sshd[10583]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 54205 [preauth]
+Mar 10 00:05:18 db01 sshd[10585]: Failed password for refrig-svc-28 from 203.0.113.118 port 38044 ssh2
+Mar 10 00:05:19 db01 sshd[10585]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 38044 [preauth]
+Mar 10 00:05:24 db01 sshd[10588]: Failed password for refrig-svc-28 from 203.0.113.118 port 37962 ssh2
+Mar 10 00:05:25 db01 sshd[10588]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 37962 [preauth]
+Mar 10 00:05:30 db01 sshd[10590]: Failed password for refrig-svc-28 from 203.0.113.118 port 48949 ssh2
+Mar 10 00:05:31 db01 sshd[10590]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 48949 [preauth]
+Mar 10 00:05:36 db01 sshd[10592]: Failed password for refrig-svc-28 from 203.0.113.118 port 60531 ssh2
+Mar 10 00:05:37 db01 sshd[10592]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 60531 [preauth]
+Mar 10 00:05:42 db01 sshd[10593]: Failed password for refrig-svc-28 from 203.0.113.118 port 42918 ssh2
+Mar 10 00:05:43 db01 sshd[10593]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42918 [preauth]
+Mar 10 00:05:48 db01 sshd[10596]: Failed password for refrig-svc-28 from 203.0.113.118 port 58694 ssh2
+Mar 10 00:05:49 db01 sshd[10596]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 58694 [preauth]
+Mar 10 00:05:54 db01 sshd[10598]: Failed password for refrig-svc-28 from 203.0.113.118 port 34922 ssh2
+Mar 10 00:05:55 db01 sshd[10598]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 34922 [preauth]
+Mar 10 00:06:00 db01 sshd[10599]: Failed password for refrig-svc-28 from 203.0.113.118 port 37897 ssh2
+Mar 10 00:06:01 db01 sshd[10599]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 37897 [preauth]
+Mar 10 00:06:06 db01 sshd[10601]: Failed password for refrig-svc-28 from 203.0.113.118 port 35769 ssh2
+Mar 10 00:06:07 db01 sshd[10601]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 35769 [preauth]
+Mar 10 00:06:12 db01 sshd[10603]: Failed password for refrig-svc-28 from 203.0.113.118 port 52107 ssh2
+Mar 10 00:06:13 db01 sshd[10603]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52107 [preauth]
+Mar 10 00:06:18 db01 sshd[10604]: Failed password for refrig-svc-28 from 203.0.113.118 port 58601 ssh2
+Mar 10 00:06:19 db01 sshd[10604]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 58601 [preauth]
+Mar 10 00:06:24 db01 sshd[10607]: Failed password for refrig-svc-28 from 203.0.113.118 port 41113 ssh2
+Mar 10 00:06:25 db01 sshd[10607]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 41113 [preauth]
+Mar 10 00:06:30 db01 sshd[10609]: Failed password for refrig-svc-28 from 203.0.113.118 port 60168 ssh2
+Mar 10 00:06:31 db01 sshd[10609]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 60168 [preauth]
+Mar 10 00:06:36 db01 sshd[10611]: Failed password for refrig-svc-28 from 203.0.113.118 port 47538 ssh2
+Mar 10 00:06:37 db01 sshd[10611]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 47538 [preauth]
+Mar 10 00:06:42 db01 sshd[10614]: Failed password for refrig-svc-28 from 203.0.113.118 port 56973 ssh2
+Mar 10 00:06:43 db01 sshd[10614]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 56973 [preauth]
+Mar 10 00:06:48 db01 sshd[10617]: Failed password for refrig-svc-28 from 203.0.113.118 port 52649 ssh2
+Mar 10 00:06:49 db01 sshd[10617]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52649 [preauth]
+Mar 10 00:06:54 db01 sshd[10620]: Failed password for refrig-svc-28 from 203.0.113.118 port 52202 ssh2
+Mar 10 00:06:55 db01 sshd[10620]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52202 [preauth]
+Mar 10 00:07:00 db01 sshd[10621]: Failed password for refrig-svc-28 from 203.0.113.118 port 52380 ssh2
+Mar 10 00:07:01 db01 sshd[10621]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52380 [preauth]
+Mar 10 00:07:06 db01 sshd[10624]: Failed password for refrig-svc-28 from 203.0.113.118 port 47232 ssh2
+Mar 10 00:07:07 db01 sshd[10624]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 47232 [preauth]
+Mar 10 00:07:12 db01 sshd[10627]: Failed password for refrig-svc-28 from 203.0.113.118 port 42375 ssh2
+Mar 10 00:07:13 db01 sshd[10627]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42375 [preauth]
+Mar 10 00:07:18 db01 sshd[10628]: Failed password for refrig-svc-28 from 203.0.113.118 port 60577 ssh2
+Mar 10 00:07:19 db01 sshd[10628]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 60577 [preauth]
+Mar 10 00:07:24 db01 sshd[10630]: Failed password for refrig-svc-28 from 203.0.113.118 port 51507 ssh2
+Mar 10 00:07:25 db01 sshd[10630]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 51507 [preauth]
+Mar 10 00:07:30 db01 sshd[10633]: Failed password for refrig-svc-28 from 203.0.113.118 port 57910 ssh2
+Mar 10 00:07:31 db01 sshd[10633]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 57910 [preauth]
+Mar 10 00:07:36 db01 sshd[10636]: Failed password for refrig-svc-28 from 203.0.113.118 port 52452 ssh2
+Mar 10 00:07:37 db01 sshd[10636]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52452 [preauth]
+Mar 10 00:07:42 db01 sshd[10639]: Failed password for refrig-svc-28 from 203.0.113.118 port 50546 ssh2
+Mar 10 00:07:43 db01 sshd[10639]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 50546 [preauth]
+Mar 10 00:07:48 db01 sshd[10641]: Failed password for refrig-svc-28 from 203.0.113.118 port 48997 ssh2
+Mar 10 00:07:49 db01 sshd[10641]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 48997 [preauth]
+Mar 10 00:07:54 db01 sshd[10644]: Failed password for refrig-svc-28 from 203.0.113.118 port 46031 ssh2
+Mar 10 00:07:55 db01 sshd[10644]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 46031 [preauth]
+Mar 10 00:08:00 db01 sshd[10646]: Failed password for refrig-svc-28 from 203.0.113.118 port 43951 ssh2
+Mar 10 00:08:01 db01 sshd[10646]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 43951 [preauth]
+Mar 10 00:08:06 db01 sshd[10648]: Failed password for refrig-svc-28 from 203.0.113.118 port 40344 ssh2
+Mar 10 00:08:07 db01 sshd[10648]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 40344 [preauth]
+Mar 10 00:08:12 db01 sshd[10651]: Failed password for refrig-svc-28 from 203.0.113.118 port 52522 ssh2
+Mar 10 00:08:13 db01 sshd[10651]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52522 [preauth]
+Mar 10 00:08:18 db01 sshd[10652]: Failed password for refrig-svc-28 from 203.0.113.118 port 37635 ssh2
+Mar 10 00:08:19 db01 sshd[10652]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 37635 [preauth]
+Mar 10 00:08:24 db01 sshd[10654]: Failed password for refrig-svc-28 from 203.0.113.118 port 44488 ssh2
+Mar 10 00:08:25 db01 sshd[10654]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44488 [preauth]
+Mar 10 00:08:30 db01 sshd[10656]: Failed password for refrig-svc-28 from 203.0.113.118 port 57371 ssh2
+Mar 10 00:08:31 db01 sshd[10656]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 57371 [preauth]
+Mar 10 00:08:36 db01 sshd[10659]: Failed password for refrig-svc-28 from 203.0.113.118 port 50636 ssh2
+Mar 10 00:08:37 db01 sshd[10659]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 50636 [preauth]
+Mar 10 00:08:42 db01 sshd[10662]: Failed password for refrig-svc-28 from 203.0.113.118 port 36390 ssh2
+Mar 10 00:08:43 db01 sshd[10662]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 36390 [preauth]
+Mar 10 00:08:48 db01 sshd[10664]: Failed password for refrig-svc-28 from 203.0.113.118 port 51164 ssh2
+Mar 10 00:08:49 db01 sshd[10664]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 51164 [preauth]
+Mar 10 00:08:54 db01 sshd[10666]: Failed password for refrig-svc-28 from 203.0.113.118 port 38526 ssh2
+Mar 10 00:08:55 db01 sshd[10666]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 38526 [preauth]
+Mar 10 00:09:00 db01 sshd[10667]: Failed password for refrig-svc-28 from 203.0.113.118 port 37377 ssh2
+Mar 10 00:09:01 db01 sshd[10667]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 37377 [preauth]
+Mar 10 00:09:06 db01 sshd[10670]: Failed password for refrig-svc-28 from 203.0.113.118 port 48780 ssh2
+Mar 10 00:09:07 db01 sshd[10670]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 48780 [preauth]
+Mar 10 00:09:12 db01 sshd[10671]: Failed password for refrig-svc-28 from 203.0.113.118 port 44180 ssh2
+Mar 10 00:09:13 db01 sshd[10671]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44180 [preauth]
+Mar 10 00:09:18 db01 sshd[10674]: Failed password for refrig-svc-28 from 203.0.113.118 port 53159 ssh2
+Mar 10 00:09:19 db01 sshd[10674]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 53159 [preauth]
+Mar 10 00:09:24 db01 sshd[10676]: Failed password for refrig-svc-28 from 203.0.113.118 port 48417 ssh2
+Mar 10 00:09:25 db01 sshd[10676]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 48417 [preauth]
+Mar 10 00:09:30 db01 sshd[10677]: Failed password for refrig-svc-28 from 203.0.113.118 port 47025 ssh2
+Mar 10 00:09:31 db01 sshd[10677]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 47025 [preauth]
+Mar 10 00:09:36 db01 sshd[10678]: Failed password for refrig-svc-28 from 203.0.113.118 port 57646 ssh2
+Mar 10 00:09:37 db01 sshd[10678]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 57646 [preauth]
+Mar 10 00:09:42 db01 sshd[10681]: Failed password for refrig-svc-28 from 203.0.113.118 port 55949 ssh2
+Mar 10 00:09:43 db01 sshd[10681]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 55949 [preauth]
+Mar 10 00:09:48 db01 sshd[10684]: Failed password for refrig-svc-28 from 203.0.113.118 port 40770 ssh2
+Mar 10 00:09:49 db01 sshd[10684]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 40770 [preauth]
+Mar 10 00:09:54 db01 sshd[10687]: Failed password for refrig-svc-28 from 203.0.113.118 port 44137 ssh2
+Mar 10 00:09:55 db01 sshd[10687]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44137 [preauth]
+Mar 10 00:10:00 db01 sshd[10690]: Failed password for refrig-svc-28 from 203.0.113.118 port 58308 ssh2
+Mar 10 00:10:01 db01 sshd[10690]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 58308 [preauth]
+Mar 10 00:10:06 db01 sshd[10691]: Failed password for refrig-svc-28 from 203.0.113.118 port 57965 ssh2
+Mar 10 00:10:07 db01 sshd[10691]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 57965 [preauth]
+Mar 10 00:10:12 db01 sshd[10694]: Failed password for refrig-svc-28 from 203.0.113.118 port 55910 ssh2
+Mar 10 00:10:13 db01 sshd[10694]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 55910 [preauth]
+Mar 10 00:10:18 db01 sshd[10696]: Failed password for refrig-svc-28 from 203.0.113.118 port 58470 ssh2
+Mar 10 00:10:19 db01 sshd[10696]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 58470 [preauth]
+Mar 10 00:10:24 db01 sshd[10699]: Failed password for refrig-svc-28 from 203.0.113.118 port 44433 ssh2
+Mar 10 00:10:25 db01 sshd[10699]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44433 [preauth]
+Mar 10 00:10:30 db01 sshd[10700]: Failed password for refrig-svc-28 from 203.0.113.118 port 34363 ssh2
+Mar 10 00:10:31 db01 sshd[10700]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 34363 [preauth]
+Mar 10 00:10:36 db01 sshd[10702]: Failed password for refrig-svc-28 from 203.0.113.118 port 46436 ssh2
+Mar 10 00:10:37 db01 sshd[10702]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 46436 [preauth]
+Mar 10 00:10:42 db01 sshd[10705]: Failed password for refrig-svc-28 from 203.0.113.118 port 47044 ssh2
+Mar 10 00:10:43 db01 sshd[10705]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 47044 [preauth]
+Mar 10 00:10:48 db01 sshd[10708]: Failed password for refrig-svc-28 from 203.0.113.118 port 45739 ssh2
+Mar 10 00:10:49 db01 sshd[10708]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 45739 [preauth]
+Mar 10 00:10:54 db01 sshd[10709]: Failed password for refrig-svc-28 from 203.0.113.118 port 60347 ssh2
+Mar 10 00:10:55 db01 sshd[10709]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 60347 [preauth]
+Mar 10 00:11:00 db01 sshd[10710]: Failed password for refrig-svc-28 from 203.0.113.118 port 38934 ssh2
+Mar 10 00:11:01 db01 sshd[10710]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 38934 [preauth]
+Mar 10 00:11:06 db01 sshd[10713]: Failed password for refrig-svc-28 from 203.0.113.118 port 34704 ssh2
+Mar 10 00:11:07 db01 sshd[10713]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 34704 [preauth]
+Mar 10 00:11:12 db01 sshd[10714]: Failed password for refrig-svc-28 from 203.0.113.118 port 44392 ssh2
+Mar 10 00:11:13 db01 sshd[10714]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44392 [preauth]
+Mar 10 00:11:18 db01 sshd[10716]: Failed password for refrig-svc-28 from 203.0.113.118 port 35676 ssh2
+Mar 10 00:11:19 db01 sshd[10716]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 35676 [preauth]
+Mar 10 00:11:24 db01 sshd[10719]: Failed password for refrig-svc-28 from 203.0.113.118 port 36626 ssh2
+Mar 10 00:11:25 db01 sshd[10719]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 36626 [preauth]
+Mar 10 00:11:30 db01 sshd[10721]: Failed password for refrig-svc-28 from 203.0.113.118 port 49931 ssh2
+Mar 10 00:11:31 db01 sshd[10721]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 49931 [preauth]
+Mar 10 00:11:36 db01 sshd[10722]: Failed password for refrig-svc-28 from 203.0.113.118 port 45803 ssh2
+Mar 10 00:11:37 db01 sshd[10722]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 45803 [preauth]
+Mar 10 00:11:42 db01 sshd[10724]: Failed password for refrig-svc-28 from 203.0.113.118 port 43251 ssh2
+Mar 10 00:11:43 db01 sshd[10724]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 43251 [preauth]
+Mar 10 00:11:48 db01 sshd[10726]: Failed password for refrig-svc-28 from 203.0.113.118 port 43546 ssh2
+Mar 10 00:11:49 db01 sshd[10726]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 43546 [preauth]
+Mar 10 00:11:54 db01 sshd[10727]: Failed password for refrig-svc-28 from 203.0.113.118 port 42222 ssh2
+Mar 10 00:11:55 db01 sshd[10727]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42222 [preauth]
+Mar 10 00:12:00 db01 sshd[10728]: Failed password for refrig-svc-28 from 203.0.113.118 port 56363 ssh2
+Mar 10 00:12:01 db01 sshd[10728]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 56363 [preauth]
+Mar 10 00:12:06 db01 sshd[10730]: Failed password for refrig-svc-28 from 203.0.113.118 port 33115 ssh2
+Mar 10 00:12:07 db01 sshd[10730]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 33115 [preauth]
+Mar 10 00:12:12 db01 sshd[10731]: Failed password for refrig-svc-28 from 203.0.113.118 port 51115 ssh2
+Mar 10 00:12:13 db01 sshd[10731]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 51115 [preauth]
+Mar 10 00:12:18 db01 sshd[10732]: Failed password for refrig-svc-28 from 203.0.113.118 port 51603 ssh2
+Mar 10 00:12:19 db01 sshd[10732]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 51603 [preauth]
+Mar 10 00:12:24 db01 sshd[10735]: Failed password for refrig-svc-28 from 203.0.113.118 port 36161 ssh2
+Mar 10 00:12:25 db01 sshd[10735]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 36161 [preauth]
+Mar 10 00:12:30 db01 sshd[10738]: Failed password for refrig-svc-28 from 203.0.113.118 port 50238 ssh2
+Mar 10 00:12:31 db01 sshd[10738]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 50238 [preauth]
+Mar 10 00:12:36 db01 sshd[10740]: Failed password for refrig-svc-28 from 203.0.113.118 port 38886 ssh2
+Mar 10 00:12:37 db01 sshd[10740]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 38886 [preauth]
+Mar 10 00:12:42 db01 sshd[10742]: Failed password for refrig-svc-28 from 203.0.113.118 port 58912 ssh2
+Mar 10 00:12:43 db01 sshd[10742]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 58912 [preauth]
+Mar 10 00:12:48 db01 sshd[10744]: Failed password for refrig-svc-28 from 203.0.113.118 port 55415 ssh2
+Mar 10 00:12:49 db01 sshd[10744]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 55415 [preauth]
+Mar 10 00:12:54 db01 sshd[10747]: Failed password for refrig-svc-28 from 203.0.113.118 port 36521 ssh2
+Mar 10 00:12:55 db01 sshd[10747]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 36521 [preauth]
+Mar 10 00:13:00 db01 sshd[10748]: Failed password for refrig-svc-28 from 203.0.113.118 port 47737 ssh2
+Mar 10 00:13:01 db01 sshd[10748]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 47737 [preauth]
+Mar 10 00:13:06 db01 sshd[10750]: Failed password for refrig-svc-28 from 203.0.113.118 port 49071 ssh2
+Mar 10 00:13:07 db01 sshd[10750]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 49071 [preauth]
+Mar 10 00:13:12 db01 sshd[10753]: Failed password for refrig-svc-28 from 203.0.113.118 port 48336 ssh2
+Mar 10 00:13:13 db01 sshd[10753]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 48336 [preauth]
+Mar 10 00:13:18 db01 sshd[10754]: Failed password for refrig-svc-28 from 203.0.113.118 port 35450 ssh2
+Mar 10 00:13:19 db01 sshd[10754]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 35450 [preauth]
+Mar 10 00:13:24 db01 sshd[10757]: Failed password for refrig-svc-28 from 203.0.113.118 port 43906 ssh2
+Mar 10 00:13:25 db01 sshd[10757]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 43906 [preauth]
+Mar 10 00:13:30 db01 sshd[10758]: Failed password for refrig-svc-28 from 203.0.113.118 port 37014 ssh2
+Mar 10 00:13:31 db01 sshd[10758]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 37014 [preauth]
+Mar 10 00:13:36 db01 sshd[10761]: Failed password for refrig-svc-28 from 203.0.113.118 port 37215 ssh2
+Mar 10 00:13:37 db01 sshd[10761]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 37215 [preauth]
+Mar 10 00:13:42 db01 sshd[10763]: Failed password for refrig-svc-28 from 203.0.113.118 port 33697 ssh2
+Mar 10 00:13:43 db01 sshd[10763]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 33697 [preauth]
+Mar 10 00:13:48 db01 sshd[10765]: Failed password for refrig-svc-28 from 203.0.113.118 port 42412 ssh2
+Mar 10 00:13:49 db01 sshd[10765]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42412 [preauth]
+Mar 10 00:13:54 db01 sshd[10768]: Failed password for refrig-svc-28 from 203.0.113.118 port 44671 ssh2
+Mar 10 00:13:55 db01 sshd[10768]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44671 [preauth]
+Mar 10 00:14:00 db01 sshd[10771]: Failed password for refrig-svc-28 from 203.0.113.118 port 42124 ssh2
+Mar 10 00:14:01 db01 sshd[10771]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42124 [preauth]
+Mar 10 00:14:06 db01 sshd[10774]: Failed password for refrig-svc-28 from 203.0.113.118 port 56984 ssh2
+Mar 10 00:14:07 db01 sshd[10774]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 56984 [preauth]
+Mar 10 00:14:12 db01 sshd[10777]: Failed password for refrig-svc-28 from 203.0.113.118 port 53970 ssh2
+Mar 10 00:14:13 db01 sshd[10777]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 53970 [preauth]
+Mar 10 00:14:18 db01 sshd[10778]: Failed password for refrig-svc-28 from 203.0.113.118 port 46637 ssh2
+Mar 10 00:14:19 db01 sshd[10778]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 46637 [preauth]
+Mar 10 00:14:24 db01 sshd[10780]: Failed password for refrig-svc-28 from 203.0.113.118 port 46084 ssh2
+Mar 10 00:14:25 db01 sshd[10780]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 46084 [preauth]
+Mar 10 00:14:30 db01 sshd[10781]: Failed password for refrig-svc-28 from 203.0.113.118 port 45227 ssh2
+Mar 10 00:14:31 db01 sshd[10781]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 45227 [preauth]
+Mar 10 00:14:36 db01 sshd[10784]: Failed password for refrig-svc-28 from 203.0.113.118 port 58925 ssh2
+Mar 10 00:14:37 db01 sshd[10784]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 58925 [preauth]
+Mar 10 00:14:42 db01 sshd[10786]: Failed password for refrig-svc-28 from 203.0.113.118 port 45306 ssh2
+Mar 10 00:14:43 db01 sshd[10786]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 45306 [preauth]
+Mar 10 00:14:48 db01 sshd[10787]: Failed password for refrig-svc-28 from 203.0.113.118 port 53466 ssh2
+Mar 10 00:14:49 db01 sshd[10787]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 53466 [preauth]
+Mar 10 00:14:54 db01 sshd[10790]: Failed password for refrig-svc-28 from 203.0.113.118 port 44327 ssh2
+Mar 10 00:14:55 db01 sshd[10790]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44327 [preauth]
+Mar 10 00:15:00 db01 sshd[10791]: Failed password for refrig-svc-28 from 203.0.113.118 port 35795 ssh2
+Mar 10 00:15:01 db01 sshd[10791]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 35795 [preauth]
+Mar 10 00:15:06 db01 sshd[10794]: Failed password for refrig-svc-28 from 203.0.113.118 port 32860 ssh2
+Mar 10 00:15:07 db01 sshd[10794]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 32860 [preauth]
+Mar 10 00:15:12 db01 sshd[10795]: Failed password for refrig-svc-28 from 203.0.113.118 port 45815 ssh2
+Mar 10 00:15:13 db01 sshd[10795]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 45815 [preauth]
+Mar 10 00:15:18 db01 sshd[10797]: Failed password for refrig-svc-28 from 203.0.113.118 port 44044 ssh2
+Mar 10 00:15:19 db01 sshd[10797]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44044 [preauth]
+Mar 10 00:15:24 db01 sshd[10799]: Failed password for refrig-svc-28 from 203.0.113.118 port 39574 ssh2
+Mar 10 00:15:25 db01 sshd[10799]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 39574 [preauth]
+Mar 10 00:15:30 db01 sshd[10800]: Failed password for refrig-svc-28 from 203.0.113.118 port 41436 ssh2
+Mar 10 00:15:31 db01 sshd[10800]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 41436 [preauth]
+Mar 10 00:15:36 db01 sshd[10802]: Failed password for refrig-svc-28 from 203.0.113.118 port 60897 ssh2
+Mar 10 00:15:37 db01 sshd[10802]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 60897 [preauth]
+Mar 10 00:15:42 db01 sshd[10804]: Failed password for refrig-svc-28 from 203.0.113.118 port 59131 ssh2
+Mar 10 00:15:43 db01 sshd[10804]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 59131 [preauth]
+Mar 10 00:15:48 db01 sshd[10805]: Failed password for refrig-svc-28 from 203.0.113.118 port 52175 ssh2
+Mar 10 00:15:49 db01 sshd[10805]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52175 [preauth]
+Mar 10 00:15:54 db01 sshd[10807]: Failed password for refrig-svc-28 from 203.0.113.118 port 42944 ssh2
+Mar 10 00:15:55 db01 sshd[10807]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42944 [preauth]
+Mar 10 00:16:00 db01 sshd[10809]: Failed password for refrig-svc-28 from 203.0.113.118 port 60149 ssh2
+Mar 10 00:16:01 db01 sshd[10809]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 60149 [preauth]
+Mar 10 00:16:06 db01 sshd[10810]: Failed password for refrig-svc-28 from 203.0.113.118 port 44424 ssh2
+Mar 10 00:16:07 db01 sshd[10810]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44424 [preauth]
+Mar 10 00:16:12 db01 sshd[10813]: Failed password for refrig-svc-28 from 203.0.113.118 port 32805 ssh2
+Mar 10 00:16:13 db01 sshd[10813]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 32805 [preauth]
+Mar 10 00:16:18 db01 sshd[10815]: Failed password for refrig-svc-28 from 203.0.113.118 port 40380 ssh2
+Mar 10 00:16:19 db01 sshd[10815]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 40380 [preauth]
+Mar 10 00:16:24 db01 sshd[10817]: Failed password for refrig-svc-28 from 203.0.113.118 port 52536 ssh2
+Mar 10 00:16:25 db01 sshd[10817]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52536 [preauth]
+Mar 10 00:16:30 db01 sshd[10818]: Failed password for refrig-svc-28 from 203.0.113.118 port 46099 ssh2
+Mar 10 00:16:31 db01 sshd[10818]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 46099 [preauth]
+Mar 10 00:16:36 db01 sshd[10821]: Failed password for refrig-svc-28 from 203.0.113.118 port 33324 ssh2
+Mar 10 00:16:37 db01 sshd[10821]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 33324 [preauth]
+Mar 10 00:16:42 db01 sshd[10822]: Failed password for refrig-svc-28 from 203.0.113.118 port 36118 ssh2
+Mar 10 00:16:43 db01 sshd[10822]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 36118 [preauth]
+Mar 10 00:16:48 db01 sshd[10824]: Failed password for refrig-svc-28 from 203.0.113.118 port 57190 ssh2
+Mar 10 00:16:49 db01 sshd[10824]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 57190 [preauth]
+Mar 10 00:16:54 db01 sshd[10825]: Failed password for refrig-svc-28 from 203.0.113.118 port 49723 ssh2
+Mar 10 00:16:55 db01 sshd[10825]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 49723 [preauth]
+Mar 10 00:17:00 db01 sshd[10828]: Failed password for refrig-svc-28 from 203.0.113.118 port 49147 ssh2
+Mar 10 00:17:01 db01 sshd[10828]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 49147 [preauth]
+Mar 10 00:17:06 db01 sshd[10831]: Failed password for refrig-svc-28 from 203.0.113.118 port 43583 ssh2
+Mar 10 00:17:07 db01 sshd[10831]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 43583 [preauth]
+Mar 10 00:17:12 db01 sshd[10833]: Failed password for refrig-svc-28 from 203.0.113.118 port 43740 ssh2
+Mar 10 00:17:13 db01 sshd[10833]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 43740 [preauth]
+Mar 10 00:17:18 db01 sshd[10835]: Failed password for refrig-svc-28 from 203.0.113.118 port 39780 ssh2
+Mar 10 00:17:19 db01 sshd[10835]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 39780 [preauth]
+Mar 10 00:17:24 db01 sshd[10838]: Failed password for refrig-svc-28 from 203.0.113.118 port 41070 ssh2
+Mar 10 00:17:25 db01 sshd[10838]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 41070 [preauth]
+Mar 10 00:17:30 db01 sshd[10841]: Failed password for refrig-svc-28 from 203.0.113.118 port 48430 ssh2
+Mar 10 00:17:31 db01 sshd[10841]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 48430 [preauth]
+Mar 10 00:17:36 db01 sshd[10844]: Failed password for refrig-svc-28 from 203.0.113.118 port 34666 ssh2
+Mar 10 00:17:37 db01 sshd[10844]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 34666 [preauth]
+Mar 10 00:17:42 db01 sshd[10846]: Failed password for refrig-svc-28 from 203.0.113.118 port 42115 ssh2
+Mar 10 00:17:43 db01 sshd[10846]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42115 [preauth]
+Mar 10 00:17:48 db01 sshd[10849]: Failed password for refrig-svc-28 from 203.0.113.118 port 37983 ssh2
+Mar 10 00:17:49 db01 sshd[10849]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 37983 [preauth]
+Mar 10 00:17:54 db01 sshd[10851]: Failed password for refrig-svc-28 from 203.0.113.118 port 41812 ssh2
+Mar 10 00:17:55 db01 sshd[10851]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 41812 [preauth]
+Mar 10 00:18:00 db01 sshd[10854]: Failed password for refrig-svc-28 from 203.0.113.118 port 60328 ssh2
+Mar 10 00:18:01 db01 sshd[10854]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 60328 [preauth]
+Mar 10 00:18:06 db01 sshd[10857]: Failed password for refrig-svc-28 from 203.0.113.118 port 41477 ssh2
+Mar 10 00:18:07 db01 sshd[10857]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 41477 [preauth]
+Mar 10 00:18:12 db01 sshd[10858]: Failed password for refrig-svc-28 from 203.0.113.118 port 36787 ssh2
+Mar 10 00:18:13 db01 sshd[10858]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 36787 [preauth]
+Mar 10 00:18:18 db01 sshd[10860]: Failed password for refrig-svc-28 from 203.0.113.118 port 40388 ssh2
+Mar 10 00:18:19 db01 sshd[10860]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 40388 [preauth]
+Mar 10 00:18:24 db01 sshd[10861]: Failed password for refrig-svc-28 from 203.0.113.118 port 46131 ssh2
+Mar 10 00:18:25 db01 sshd[10861]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 46131 [preauth]
+Mar 10 00:18:30 db01 sshd[10862]: Failed password for refrig-svc-28 from 203.0.113.118 port 49620 ssh2
+Mar 10 00:18:31 db01 sshd[10862]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 49620 [preauth]
+Mar 10 00:18:36 db01 sshd[10863]: Failed password for refrig-svc-28 from 203.0.113.118 port 50884 ssh2
+Mar 10 00:18:37 db01 sshd[10863]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 50884 [preauth]
+Mar 10 00:18:42 db01 sshd[10866]: Failed password for refrig-svc-28 from 203.0.113.118 port 59855 ssh2
+Mar 10 00:18:43 db01 sshd[10866]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 59855 [preauth]
+Mar 10 00:18:48 db01 sshd[10869]: Failed password for refrig-svc-28 from 203.0.113.118 port 51035 ssh2
+Mar 10 00:18:49 db01 sshd[10869]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 51035 [preauth]
+Mar 10 00:18:54 db01 sshd[10871]: Failed password for refrig-svc-28 from 203.0.113.118 port 55590 ssh2
+Mar 10 00:18:55 db01 sshd[10871]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 55590 [preauth]
+Mar 10 00:19:00 db01 sshd[10873]: Failed password for refrig-svc-28 from 203.0.113.118 port 52187 ssh2
+Mar 10 00:19:01 db01 sshd[10873]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 52187 [preauth]
+Mar 10 00:19:06 db01 sshd[10874]: Failed password for refrig-svc-28 from 203.0.113.118 port 38220 ssh2
+Mar 10 00:19:07 db01 sshd[10874]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 38220 [preauth]
+Mar 10 00:19:12 db01 sshd[10875]: Failed password for refrig-svc-28 from 203.0.113.118 port 43812 ssh2
+Mar 10 00:19:13 db01 sshd[10875]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 43812 [preauth]
+Mar 10 00:19:18 db01 sshd[10877]: Failed password for refrig-svc-28 from 203.0.113.118 port 38752 ssh2
+Mar 10 00:19:19 db01 sshd[10877]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 38752 [preauth]
+Mar 10 00:19:24 db01 sshd[10879]: Failed password for refrig-svc-28 from 203.0.113.118 port 49571 ssh2
+Mar 10 00:19:25 db01 sshd[10879]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 49571 [preauth]
+Mar 10 00:19:30 db01 sshd[10881]: Failed password for refrig-svc-28 from 203.0.113.118 port 59348 ssh2
+Mar 10 00:19:31 db01 sshd[10881]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 59348 [preauth]
+Mar 10 00:19:36 db01 sshd[10882]: Failed password for refrig-svc-28 from 203.0.113.118 port 49546 ssh2
+Mar 10 00:19:37 db01 sshd[10882]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 49546 [preauth]
+Mar 10 00:19:42 db01 sshd[10885]: Failed password for refrig-svc-28 from 203.0.113.118 port 47048 ssh2
+Mar 10 00:19:43 db01 sshd[10885]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 47048 [preauth]
+Mar 10 00:19:48 db01 sshd[10887]: Failed password for refrig-svc-28 from 203.0.113.118 port 44050 ssh2
+Mar 10 00:19:49 db01 sshd[10887]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44050 [preauth]
+Mar 10 00:19:54 db01 sshd[10889]: Failed password for refrig-svc-28 from 203.0.113.118 port 44642 ssh2
+Mar 10 00:19:55 db01 sshd[10889]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44642 [preauth]
+Mar 10 00:20:00 db01 sshd[10892]: Failed password for refrig-svc-28 from 203.0.113.118 port 50034 ssh2
+Mar 10 00:20:01 db01 sshd[10892]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 50034 [preauth]
+Mar 10 00:20:06 db01 sshd[10893]: Failed password for refrig-svc-28 from 203.0.113.118 port 44251 ssh2
+Mar 10 00:20:07 db01 sshd[10893]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44251 [preauth]
+Mar 10 00:20:12 db01 sshd[10894]: Failed password for refrig-svc-28 from 203.0.113.118 port 36470 ssh2
+Mar 10 00:20:13 db01 sshd[10894]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 36470 [preauth]
+Mar 10 00:20:18 db01 sshd[10897]: Failed password for refrig-svc-28 from 203.0.113.118 port 54784 ssh2
+Mar 10 00:20:19 db01 sshd[10897]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 54784 [preauth]
+Mar 10 00:20:24 db01 sshd[10900]: Failed password for refrig-svc-28 from 203.0.113.118 port 54440 ssh2
+Mar 10 00:20:25 db01 sshd[10900]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 54440 [preauth]
+Mar 10 00:20:30 db01 sshd[10902]: Failed password for refrig-svc-28 from 203.0.113.118 port 48378 ssh2
+Mar 10 00:20:31 db01 sshd[10902]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 48378 [preauth]
+Mar 10 00:20:36 db01 sshd[10904]: Failed password for refrig-svc-28 from 203.0.113.118 port 46044 ssh2
+Mar 10 00:20:37 db01 sshd[10904]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 46044 [preauth]
+Mar 10 00:20:42 db01 sshd[10907]: Failed password for refrig-svc-28 from 203.0.113.118 port 58034 ssh2
+Mar 10 00:20:43 db01 sshd[10907]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 58034 [preauth]
+Mar 10 00:20:48 db01 sshd[10908]: Failed password for refrig-svc-28 from 203.0.113.118 port 44472 ssh2
+Mar 10 00:20:49 db01 sshd[10908]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 44472 [preauth]
+Mar 10 00:20:54 db01 sshd[10909]: Failed password for refrig-svc-28 from 203.0.113.118 port 45752 ssh2
+Mar 10 00:20:55 db01 sshd[10909]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 45752 [preauth]
+Mar 10 00:21:00 db01 sshd[10912]: Failed password for refrig-svc-28 from 203.0.113.118 port 51214 ssh2
+Mar 10 00:21:01 db01 sshd[10912]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 51214 [preauth]
+Mar 10 00:21:06 db01 sshd[10914]: Failed password for refrig-svc-28 from 203.0.113.118 port 42920 ssh2
+Mar 10 00:21:07 db01 sshd[10914]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42920 [preauth]
+Mar 10 00:21:12 db01 sshd[10917]: Failed password for refrig-svc-28 from 203.0.113.118 port 42006 ssh2
+Mar 10 00:21:13 db01 sshd[10917]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 42006 [preauth]
+Mar 10 00:21:18 db01 sshd[10918]: Failed password for refrig-svc-28 from 203.0.113.118 port 46762 ssh2
+Mar 10 00:21:19 db01 sshd[10918]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 46762 [preauth]
+Mar 10 00:21:24 db01 sshd[10921]: Failed password for refrig-svc-28 from 203.0.113.118 port 55893 ssh2
+Mar 10 00:21:25 db01 sshd[10921]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 55893 [preauth]
+Mar 10 00:21:30 db01 sshd[10924]: Failed password for refrig-svc-28 from 203.0.113.118 port 57319 ssh2
+Mar 10 00:21:31 db01 sshd[10924]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 57319 [preauth]
+Mar 10 00:21:36 db01 sshd[10927]: Failed password for refrig-svc-28 from 203.0.113.118 port 50285 ssh2
+Mar 10 00:21:37 db01 sshd[10927]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 50285 [preauth]
+Mar 10 00:21:42 db01 sshd[10930]: Failed password for refrig-svc-28 from 203.0.113.118 port 54234 ssh2
+Mar 10 00:21:43 db01 sshd[10930]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 54234 [preauth]
+Mar 10 00:21:48 db01 sshd[10931]: Failed password for refrig-svc-28 from 203.0.113.118 port 34866 ssh2
+Mar 10 00:21:49 db01 sshd[10931]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 34866 [preauth]
+Mar 10 00:21:54 db01 sshd[10934]: Failed password for refrig-svc-28 from 203.0.113.118 port 50386 ssh2
+Mar 10 00:21:55 db01 sshd[10934]: Connection closed by authenticating user refrig-svc-28 203.0.113.118 port 50386 [preauth]
+Mar 10 00:22:14 db01 sshd[10937]: Accepted password for refrig-svc-28 from 203.0.113.118 port 59673 ssh2
+Mar 10 00:22:14 db01 sshd[10937]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar 10 00:27:14 db01 sudo: refrig-svc-28 : TTY=pts/0 ; PWD=/home/refrig-svc-28 ; USER=root ; COMMAND=/usr/bin/id
+Mar 10 00:27:14 db01 sudo[10938]: pam_unix(sudo:session): session opened for user root(uid=0) by refrig-svc-28(uid=1100)
+Mar 10 00:28:29 db01 sudo: refrig-svc-28 : TTY=pts/0 ; PWD=/home/refrig-svc-28 ; USER=root ; COMMAND=/usr/bin/install -o root -g root -m 0750 /var/tmp/.maint-28 /usr/local/sbin/orders-sync-28
+Mar 10 00:28:29 db01 sudo[10939]: pam_unix(sudo:session): session opened for user root(uid=0) by refrig-svc-28(uid=1100)
+Mar 10 00:29:59 db01 sudo: refrig-svc-28 : TTY=pts/0 ; PWD=/home/refrig-svc-28 ; USER=root ; COMMAND=/usr/bin/crontab -u root /var/tmp/.schedule-28
+Mar 10 00:29:59 db01 sudo[10942]: pam_unix(sudo:session): session opened for user root(uid=0) by refrig-svc-28(uid=1100)
+Mar 10 01:07:14 db01 sshd[10937]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar 10 11:06:13 db01 sshd[11052]: Accepted password for refrig-svc-28 from 198.51.100.16 port 55301 ssh2
+Mar 10 11:06:13 db01 sshd[11052]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar 10 11:21:13 db01 sshd[11052]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar 12 13:26:49 db01 sshd[11599]: Accepted password for refrig-svc-28 from 198.51.100.16 port 51188 ssh2
+Mar 12 13:26:49 db01 sshd[11599]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar 12 13:53:49 db01 sshd[11599]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar 17 11:55:20 db01 sshd[12610]: Accepted password for refrig-svc-28 from 198.51.100.16 port 44202 ssh2
+Mar 17 11:55:20 db01 sshd[12610]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar 17 12:40:20 db01 sshd[12610]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar 19 09:45:11 db01 sshd[13055]: Accepted password for refrig-svc-28 from 198.51.100.16 port 55460 ssh2
+Mar 19 09:45:11 db01 sshd[13055]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar 19 10:21:11 db01 sshd[13055]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar 24 15:44:24 db01 sshd[14188]: Accepted password for refrig-svc-28 from 198.51.100.16 port 36196 ssh2
+Mar 24 15:44:24 db01 sshd[14188]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar 24 16:10:24 db01 sshd[14188]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar 26 12:03:00 db01 sshd[14607]: Accepted password for refrig-svc-28 from 198.51.100.16 port 52120 ssh2
+Mar 26 12:03:00 db01 sshd[14607]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar 26 12:45:00 db01 sshd[14607]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Mar 31 15:39:15 db01 sshd[15736]: Accepted password for refrig-svc-28 from 198.51.100.16 port 58527 ssh2
+Mar 31 15:39:15 db01 sshd[15736]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Mar 31 15:59:15 db01 sshd[15736]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr  2 15:36:03 db01 sshd[16213]: Accepted password for refrig-svc-28 from 198.51.100.16 port 57895 ssh2
+Apr  2 15:36:03 db01 sshd[16213]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr  2 16:19:03 db01 sshd[16213]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr  7 10:29:34 db01 sshd[17287]: Accepted password for refrig-svc-28 from 198.51.100.16 port 45897 ssh2
+Apr  7 10:29:34 db01 sshd[17287]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr  7 10:51:34 db01 sshd[17287]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr  9 12:20:15 db01 sshd[17757]: Accepted password for refrig-svc-28 from 198.51.100.16 port 50877 ssh2
+Apr  9 12:20:15 db01 sshd[17757]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr  9 12:50:15 db01 sshd[17757]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr 14 11:10:17 db01 sshd[18813]: Accepted password for refrig-svc-28 from 198.51.100.16 port 56237 ssh2
+Apr 14 11:10:17 db01 sshd[18813]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr 14 11:56:17 db01 sshd[18813]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr 16 10:35:45 db01 sshd[19245]: Accepted password for refrig-svc-28 from 198.51.100.16 port 43790 ssh2
+Apr 16 10:35:45 db01 sshd[19245]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr 16 11:00:45 db01 sshd[19245]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr 21 13:25:12 db01 sshd[20296]: Accepted password for refrig-svc-28 from 198.51.100.16 port 50735 ssh2
+Apr 21 13:25:12 db01 sshd[20296]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr 21 14:25:12 db01 sshd[20296]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr 23 15:38:22 db01 sshd[20758]: Accepted password for refrig-svc-28 from 198.51.100.16 port 49217 ssh2
+Apr 23 15:38:22 db01 sshd[20758]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr 23 16:22:22 db01 sshd[20758]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr 28 11:25:52 db01 sshd[21780]: Accepted password for refrig-svc-28 from 198.51.100.16 port 41425 ssh2
+Apr 28 11:25:52 db01 sshd[21780]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr 28 11:55:52 db01 sshd[21780]: pam_unix(sshd:session): session closed for user refrig-svc-28
+Apr 30 11:19:10 db01 sshd[22333]: Accepted password for refrig-svc-28 from 198.51.100.16 port 40033 ssh2
+Apr 30 11:19:10 db01 sshd[22333]: pam_unix(sshd:session): session opened for user refrig-svc-28(uid=1100) by (uid=0)
+Apr 30 11:49:10 db01 sshd[22333]: pam_unix(sshd:session): session closed for user refrig-svc-28

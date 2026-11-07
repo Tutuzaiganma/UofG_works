@@ -1,0 +1,5 @@
+# Python virtual environments
+.log/
+
+# VS Code settings
+.vscode/
