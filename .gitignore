@@ -1,5 +1,8 @@
 # Python virtual environments
 .log/
+.pro/
+
 
 # VS Code settings
 .vscode/
+
